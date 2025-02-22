@@ -52,15 +52,5 @@ This project is an Android application that simulates a Rock Paper Scissors game
 - Click on the card to make your choice and play against the computer.
 - The game will display the winner and update the scores accordingly.
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 For any inquiries or issues, please contact [Scot8](https://github.com/Scot8).
-
----
-
-This README file provides an overview of the project, setup instructions, and usage details to help recruiters understand the application and its features.
